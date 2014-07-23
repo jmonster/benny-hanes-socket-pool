@@ -1,0 +1,25 @@
+{
+  "name": "benny-hanes-socket-pool",
+  "version": "1.0.0",
+  "description": "The Benny Hanes Socket Pool -- voted Best Line of Code 2012",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jmonster/benny-hanes-socket-pool"
+  },
+  "keywords": [
+    "sockets",
+    "http",
+    "https",
+    "pool"
+  ],
+  "author": "johnny domino, inspired by benny hanes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmonster/benny-hanes-socket-pool/issues"
+  },
+  "homepage": "https://github.com/jmonster/benny-hanes-socket-pool"
+}
