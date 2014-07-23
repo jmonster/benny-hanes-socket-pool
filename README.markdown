@@ -1,6 +1,8 @@
 The Benny Hanes Socket Pool
 ---------------------------
 
+![hero](https://raw.githubusercontent.com/jmonster/benny-hanes-socket-pool/master/hero.png)
+
 ## when to use
 when node's default 5 concurrent sockets just doesn't cut it.
 
