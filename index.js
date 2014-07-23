@@ -1,4 +1,1 @@
-var Http = require('http');
-var Https = require('https');
-
-Http.globalAgent.maxSockets = Https.globalAgent.maxSockets = Infinity;
+require('http').globalAgent.maxSockets =  require('https').globalAgent.maxSockets = Infinity;
