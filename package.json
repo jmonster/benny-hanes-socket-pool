@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha test",
-    "jshint": "./node_modules/.bin/jshint ."
+    "jshint": "./node_modules/.bin/jshint .",
+    "cover": "./node_modules/.bin/istanbul cover node_modules/mocha/bin/_mocha -- -R spec"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
   },
   "homepage": "https://github.com/jmonster/benny-hanes-socket-pool",
   "devDependencies": {
+    "istanbul": "^0.3.0",
     "jshint": "^2.5.2",
     "mocha": "^1.21.0",
     "should": "^4.0.4"
