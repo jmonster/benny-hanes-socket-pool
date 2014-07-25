@@ -26,10 +26,3 @@ describe('an instance of https.Agent', function () {
     (new https.Agent()).maxSockets.should.equal(Infinity);
   });
 });
-
-
-
-
-
-
-
