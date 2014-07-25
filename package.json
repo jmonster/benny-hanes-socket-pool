@@ -4,7 +4,8 @@
   "description": "The Benny Hanes Socket Pool -- voted Best Line of Code 2012",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha test"
+    "test": "./node_modules/.bin/mocha test",
+    "jshint": "./node_modules/.bin/jshint ."
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   },
   "homepage": "https://github.com/jmonster/benny-hanes-socket-pool",
   "devDependencies": {
+    "jshint": "^2.5.2",
     "mocha": "^1.21.0",
     "should": "^4.0.4"
   }
