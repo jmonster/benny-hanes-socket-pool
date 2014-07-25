@@ -1,6 +1,8 @@
 The Benny Hanes Socket Pool
 ---------------------------
 
+[![Build Status](https://travis-ci.org/jmonster/benny-hanes-socket-pool.svg)](https://travis-ci.org/jmonster/benny-hanes-socket-pool)
+
 ![hero](https://raw.githubusercontent.com/jmonster/benny-hanes-socket-pool/master/hero.png)
 
 ## when to use
