@@ -2,6 +2,7 @@ The Benny Hanes Socket Pool
 ---------------------------
 
 [![Build Status](https://travis-ci.org/jmonster/benny-hanes-socket-pool.svg)](https://travis-ci.org/jmonster/benny-hanes-socket-pool)
+[![Circle CI](https://circleci.com/gh/jmonster/benny-hanes-socket-pool.svg?style=svg)](https://circleci.com/gh/jmonster/benny-hanes-socket-pool)
 [![devDependency Status](https://david-dm.org/jmonster/benny-hanes-socket-pool/dev-status.svg?theme=shields.io)](https://david-dm.org/jmonster/benny-hanes-socket-pool#info=devDependencies)
 
 
