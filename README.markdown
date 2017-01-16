@@ -15,7 +15,7 @@ When Node's default five concurrent sockets just doesn't cut it.
 ## Reasons to Use
 Because the [benny-hanes-socket-pool](https://github.com/jmonster/benny-hanes-socket-pool) is:
 + :shipit: rated best LOC of 2012
-+ :cool: battle tested in production -- live on hundred(s) of Fortune 500 e-commerce sites
++ :cool: battle tested in production -- live on ten(s) of Fortune 500 e-commerce sites
 
 
 ## How to Use
